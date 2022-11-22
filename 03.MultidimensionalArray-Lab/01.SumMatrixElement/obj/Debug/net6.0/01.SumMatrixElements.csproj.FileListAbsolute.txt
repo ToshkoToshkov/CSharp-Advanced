@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\bin\Debug\net6.0\01.SumMatrixElements.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\bin\Debug\net6.0\01.SumMatrixElements.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\bin\Debug\net6.0\01.SumMatrixElements.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\bin\Debug\net6.0\01.SumMatrixElements.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\bin\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\refint\01.SumMatrixElements.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\01.SumMatrixElements.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\01.SumMatrixElement\obj\Debug\net6.0\ref\01.SumMatrixElements.dll
