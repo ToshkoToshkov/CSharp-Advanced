@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\refint\05.FilterByAge.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\05.FilterByAge\obj\Debug\net6.0\ref\05.FilterByAge.dll
