@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\bin\Debug\net6.0\02.2X2SquaresInMatrix.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\bin\Debug\net6.0\02.2X2SquaresInMatrix.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\bin\Debug\net6.0\02.2X2SquaresInMatrix.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\bin\Debug\net6.0\02.2X2SquaresInMatrix.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\bin\Debug\net6.0\02.2X2SquaresInMatrix.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\refint\02.2X2SquaresInMatrix.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\02.2X2SquaresInMatrix.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\02.2X2SquaresInMatrix\obj\Debug\net6.0\ref\02.2X2SquaresInMatrix.dll
