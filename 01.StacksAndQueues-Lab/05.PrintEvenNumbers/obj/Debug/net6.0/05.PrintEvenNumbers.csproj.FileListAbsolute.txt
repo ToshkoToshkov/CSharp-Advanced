@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\refint\05.PrintEvenNumbers.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\05.PrintEvenNumbers\obj\Debug\net6.0\ref\05.PrintEvenNumbers.dll
