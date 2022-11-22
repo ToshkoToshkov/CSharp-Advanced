@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\bin\Debug\net6.0\01.CountTheSameValueInArray.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\bin\Debug\net6.0\01.CountTheSameValueInArray.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\bin\Debug\net6.0\01.CountTheSameValueInArray.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\bin\Debug\net6.0\01.CountTheSameValueInArray.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\bin\Debug\net6.0\01.CountTheSameValueInArray.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\refint\01.CountTheSameValueInArray.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\01.CountTheSameValueInArray.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\01.CountTheSameValueInArray\obj\Debug\net6.0\ref\01.CountTheSameValueInArray.dll
