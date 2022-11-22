@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\refint\02.KnightsOfHonor.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\02.KnightsOfHonor\obj\Debug\net6.0\ref\02.KnightsOfHonor.dll
