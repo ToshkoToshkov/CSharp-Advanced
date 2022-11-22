@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\bin\Debug\net6.0\07.TrafficJam.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\bin\Debug\net6.0\07.TrafficJam.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\bin\Debug\net6.0\07.TrafficJam.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\bin\Debug\net6.0\07.TrafficJam.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\bin\Debug\net6.0\07.TrafficJam.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\refint\07.TrafficJam.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\07.TrafficJam.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\07.TrafficJam\obj\Debug\net6.0\ref\07.TrafficJam.dll
