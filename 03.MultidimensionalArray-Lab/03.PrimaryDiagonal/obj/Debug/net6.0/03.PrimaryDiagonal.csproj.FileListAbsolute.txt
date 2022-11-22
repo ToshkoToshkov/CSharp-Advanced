@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\refint\03.PrimaryDiagonal.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\ref\03.PrimaryDiagonal.dll
