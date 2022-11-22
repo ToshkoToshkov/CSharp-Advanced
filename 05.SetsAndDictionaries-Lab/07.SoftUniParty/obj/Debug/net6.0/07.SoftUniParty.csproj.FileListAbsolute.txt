@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\bin\Debug\net6.0\07.SoftUniParty.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\bin\Debug\net6.0\07.SoftUniParty.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\bin\Debug\net6.0\07.SoftUniParty.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\bin\Debug\net6.0\07.SoftUniParty.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\bin\Debug\net6.0\07.SoftUniParty.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\refint\07.SoftUniParty.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\07.SoftUniParty.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\07.SoftUniParty\obj\Debug\net6.0\ref\07.SoftUniParty.dll
