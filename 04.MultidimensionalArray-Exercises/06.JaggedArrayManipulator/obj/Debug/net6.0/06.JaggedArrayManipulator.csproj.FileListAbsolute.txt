@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\refint\06.JaggedArrayManipulator.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\06.JaggedArrayManipulator\obj\Debug\net6.0\ref\06.JaggedArrayManipulator.dll
