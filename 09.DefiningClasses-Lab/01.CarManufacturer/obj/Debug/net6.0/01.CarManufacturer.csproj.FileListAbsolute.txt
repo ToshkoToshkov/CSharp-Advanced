@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\bin\Debug\net6.0\01.CarManufacturer.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\bin\Debug\net6.0\01.CarManufacturer.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\bin\Debug\net6.0\01.CarManufacturer.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\bin\Debug\net6.0\01.CarManufacturer.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\bin\Debug\net6.0\01.CarManufacturer.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\refint\01.CarManufacturer.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\01.CarManufacturer.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\09.DefiningClassesLab\01.CarManufacturer\obj\Debug\net6.0\ref\01.CarManufacturer.dll
