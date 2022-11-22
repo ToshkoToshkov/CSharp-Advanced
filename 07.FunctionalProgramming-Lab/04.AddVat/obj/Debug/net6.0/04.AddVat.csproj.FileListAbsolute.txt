@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\bin\Debug\net6.0\04.AddVat.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\bin\Debug\net6.0\04.AddVat.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\bin\Debug\net6.0\04.AddVat.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\bin\Debug\net6.0\04.AddVat.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\bin\Debug\net6.0\04.AddVat.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\refint\04.AddVat.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\04.AddVat.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\04.AddVat\obj\Debug\net6.0\ref\04.AddVat.dll
