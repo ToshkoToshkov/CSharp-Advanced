@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\bin\Debug\net6.0\06.ParkingLot.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\bin\Debug\net6.0\06.ParkingLot.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\bin\Debug\net6.0\06.ParkingLot.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\bin\Debug\net6.0\06.ParkingLot.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\bin\Debug\net6.0\06.ParkingLot.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\refint\06.ParkingLot.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\06.ParkingLot.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\06.ParkingLot\obj\Debug\net6.0\ref\06.ParkingLot.dll
