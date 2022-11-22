@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\bin\Debug\net6.0\02.AverageStudentsGrades.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\bin\Debug\net6.0\02.AverageStudentsGrades.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\bin\Debug\net6.0\02.AverageStudentsGrades.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\bin\Debug\net6.0\02.AverageStudentsGrades.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\bin\Debug\net6.0\02.AverageStudentsGrades.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\refint\02.AverageStudentsGrades.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\02.AverageStudentsGrades.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\02.AverageStudentsGrades\obj\Debug\net6.0\ref\02.AverageStudentsGrades.dll
