@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\bin\Debug\net6.0\03.ProductShop.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\bin\Debug\net6.0\03.ProductShop.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\bin\Debug\net6.0\03.ProductShop.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\bin\Debug\net6.0\03.ProductShop.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\bin\Debug\net6.0\03.ProductShop.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\refint\03.ProductShop.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\03.ProductShop.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\05.SetsAndDictionarysAdvancedLab\03.ProductShop\obj\Debug\net6.0\ref\03.ProductShop.dll
