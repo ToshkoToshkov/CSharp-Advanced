@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\refint\04.MatchingBrackets.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\04.MatchingBrackets\obj\Debug\net6.0\ref\04.MatchingBrackets.dll
