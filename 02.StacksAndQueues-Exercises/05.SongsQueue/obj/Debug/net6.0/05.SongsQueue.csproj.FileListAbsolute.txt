@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\bin\Debug\net6.0\05.SongsQueue.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\bin\Debug\net6.0\05.SongsQueue.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\bin\Debug\net6.0\05.SongsQueue.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\bin\Debug\net6.0\05.SongsQueue.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\bin\Debug\net6.0\05.SongsQueue.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\refint\05.SongsQueue.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\05.SongsQueue.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\02.StacksAndQueues-Exercise\05.SongsQueue\obj\Debug\net6.0\ref\05.SongsQueue.dll
