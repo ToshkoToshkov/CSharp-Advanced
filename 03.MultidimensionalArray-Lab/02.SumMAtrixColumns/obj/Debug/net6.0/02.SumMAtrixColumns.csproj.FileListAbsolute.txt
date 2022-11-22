@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\bin\Debug\net6.0\02.SumMAtrixColumns.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\bin\Debug\net6.0\02.SumMAtrixColumns.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\bin\Debug\net6.0\02.SumMAtrixColumns.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\bin\Debug\net6.0\02.SumMAtrixColumns.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\bin\Debug\net6.0\02.SumMAtrixColumns.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\refint\02.SumMAtrixColumns.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\02.SumMAtrixColumns.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\02.SumMAtrixColumns\obj\Debug\net6.0\ref\02.SumMAtrixColumns.dll
