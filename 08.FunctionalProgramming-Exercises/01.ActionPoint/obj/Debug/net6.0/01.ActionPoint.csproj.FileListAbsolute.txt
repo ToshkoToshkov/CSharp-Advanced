@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\bin\Debug\net6.0\01.ActionPoint.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\bin\Debug\net6.0\01.ActionPoint.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\bin\Debug\net6.0\01.ActionPoint.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\bin\Debug\net6.0\01.ActionPoint.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\bin\Debug\net6.0\01.ActionPoint.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\refint\01.ActionPoint.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\01.ActionPoint.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\08.FunctionalProgrammingExercise\01.ActionPoint\obj\Debug\net6.0\ref\01.ActionPoint.dll
