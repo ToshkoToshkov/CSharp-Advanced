@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\bin\Debug\net6.0\06.SquareWithMaximumSum.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\bin\Debug\net6.0\06.SquareWithMaximumSum.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\bin\Debug\net6.0\06.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\bin\Debug\net6.0\06.SquareWithMaximumSum.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\bin\Debug\net6.0\06.SquareWithMaximumSum.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\refint\06.SquareWithMaximumSum.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\06.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\03.MultidimensionalArrays-Matrix-Lab\06.SquareWithMaximumSum\obj\Debug\net6.0\ref\06.SquareWithMaximumSum.dll
