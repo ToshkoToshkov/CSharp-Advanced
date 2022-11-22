@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\01.StacksAndQueues-LAB\01.ReverseStrings\obj\Debug\net6.0\ref\01.ReverseStrings.dll
