@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\refint\05.SnakeMoves.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\04.MultidimensionalArraysExercise\05.SnakeMoves\obj\Debug\net6.0\ref\05.SnakeMoves.dll
