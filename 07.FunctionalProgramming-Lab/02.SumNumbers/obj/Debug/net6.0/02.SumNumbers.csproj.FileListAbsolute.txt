@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.exe
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.deps.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\bin\Debug\net6.0\02.SumNumbers.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\refint\02.SumNumbers.dll
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.pdb
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\02.SumNumbers.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\C# Advanced\07.FunctionalProgrammingLab\02.SumNumbers\obj\Debug\net6.0\ref\02.SumNumbers.dll
